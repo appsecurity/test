@@ -1,0 +1,11 @@
+WEB
+1
+https://raw.githubusercontent.com/appsecurity/test/master/calc-excel2016.dat
+
+Selection=2
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
